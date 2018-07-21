@@ -1,0 +1,9 @@
+﻿2018年7月6日00:02:08       Bmob Android SDK配置
+
+2018年7月6日               用户登录注册+BaiduMapSDK配置
+2018年7月7日               ListView/recycleView  ☆☆☆☆☆
+2018年7月8日               发布与签到
+
+sign_item:科目（头像）、时间、人数、百分率
+detail_list:科目（大图）、已签到/未签到
+detail_item:姓名、状态、头像
